@@ -4,6 +4,8 @@
 
 This repository contains the comprehensive brand identity documentation for AicroStrategy, a BTC-focused onchain treasury protocol. The visual language blends the authority of established financial players with the agility of the onchain economy, using an "Akira-inspired" aesthetic.
 
+> 📥 **View Full PDF:** [AICROSTRATEGY_BRAND_GUIDELINES.pdf](AICROSTRATEGY_BRAND_GUIDELINES.pdf)
+
 ## 📖 Contents
 
 * **Visual Identity:** Logo usage, color systems, and typography.
